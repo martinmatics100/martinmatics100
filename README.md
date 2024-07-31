@@ -7,7 +7,8 @@
 - 🌱 earlier this year (2024) I started working on a fullstack web application called Palmfit where I am utilizing React for the UI and C# ASP.NET CORE Web Api for the Backend
 - 🌱 Palmfit is an easy-to-use calorie calculator that helps users measure their calorie intake in order to make better healthy food intake decisions
 - 💞️ I’m here to build beautiful websites and portfolios for you ...
-- 📫 You can reach me via 09131518262 and 09157697071 ...
+- 📫 You can reach me via +2349131518262
+- 👩🏽‍💻To know more about me, checkout my https://martinmatics100.github.io/My_Portfolio_Website/
 
 <!---
 martinmatics100/martinmatics100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
